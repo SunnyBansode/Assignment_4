@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment_4</string>
+    <string name="sample_text">Hello, World!</string>
+    <string name="button1_text">Increment Counter</string>
+    <string name="button2_text">Change Height</string>
+    <string name="button3_text">Center Text</string>
+</resources>
